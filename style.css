@@ -1,0 +1,46 @@
+body {
+    color: 'grey';
+    background-color: "grey";
+}
+
+.stTextInput>div>div>input {
+    color: "black";
+}
+
+
+div.element-container:nth-child(5) button {
+background:    #f3f3f3;
+border-radius: 11px;
+padding:       20px 45px;
+color:         #000000;
+display:       inline-block;
+font:          normal normal 34px/1 "Noto Sans", sans-serif;
+text-align:    center;
+margin-left: 36%;
+width: 200px;
+}
+
+div.element-container:nth-child(8) button {
+float: left;
+background:    #f3f3f3;
+border-radius: 11px;
+padding:       20px 45px;
+color:         #000000;
+display:       inline-block;
+font:          normal normal 30px/1 "Noto Sans", sans-serif;
+margin-left: 0%;
+width: 300px;
+}
+
+div.element-container:nth-child(9) button {
+float: left;
+background:    #f3f3f3;
+border-radius: 11px;
+padding:       20px 45px;
+color:         #000000;
+display:       inline-block;
+font:          normal normal 30px/1 "Noto Sans", sans-serif;
+margin-left: 0%;
+width: 300px;
+}
+
